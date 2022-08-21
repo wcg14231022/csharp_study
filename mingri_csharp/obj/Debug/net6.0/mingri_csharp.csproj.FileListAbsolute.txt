@@ -1,0 +1,15 @@
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\bin\Debug\net6.0\mingri_csharp.exe
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\bin\Debug\net6.0\mingri_csharp.deps.json
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\bin\Debug\net6.0\mingri_csharp.runtimeconfig.json
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\bin\Debug\net6.0\mingri_csharp.dll
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\bin\Debug\net6.0\mingri_csharp.pdb
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.csproj.AssemblyReference.cache
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.AssemblyInfoInputs.cache
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.AssemblyInfo.cs
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.csproj.CoreCompileInputs.cache
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.dll
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\refint\mingri_csharp.dll
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.pdb
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\mingri_csharp.genruntimeconfig.cache
+F:\OneDrive\csharp\git_dir\csharp_study\mingri_csharp\obj\Debug\net6.0\ref\mingri_csharp.dll
